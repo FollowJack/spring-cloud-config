@@ -1,0 +1,1 @@
+Test project for Spring Cloud Config Server
